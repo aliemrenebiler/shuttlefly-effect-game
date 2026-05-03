@@ -16,10 +16,10 @@ Mostly inspired from Reigns (a mobile decision game).
 
 | V1 | V2 |
 | :-: | :-: |
-| ![SE Home Screen V1](images/v1/AEN-se-v1-1.png) | ![SE Home Screen V2](images/v2/AEN-se-v2-1.png) |
-| ![SE Story Screen V1](images/v1/AEN-se-v1-2.png) | ![SE Story Screen V2](images/v2/AEN-se-v2-2.png) |
-| ![SE Character Selection Screen V1](images/v1/AEN-se-v1-3.png) | ![SE Character Selection Screen V2](images/v2/AEN-se-v2-3.png) |
-| ![SE Game Event Screen V1](images/v1/AEN-se-v1-4.png) | ![SE Game Event Screen V2](images/v2/AEN-se-v2-4.png) |
-| ![SE Game Event Result Screen V1](images/v1/AEN-se-v1-5.png) | ![SE Game Event Result Screen V2](images/v2/AEN-se-v2-5.png) |
-| Not Available | ![SE Game Event Result Screen V2](images/v2/AEN-se-v2-6.png) |
-| ![SE Game End Screen V1](images/v1/AEN-se-v1-6.png) | ![SE Game End Screen V2](images/v2/AEN-se-v2-7.png) |
+| ![Main Menu V1](https://aliemrenebiler.github.io/files/shuttlefly-effect/images/main-menu-v1.png) | ![Main Menu V2](https://aliemrenebiler.github.io/files/shuttlefly-effect/images/main-menu-v2.png) |
+| ![Prologue V1](https://aliemrenebiler.github.io/files/shuttlefly-effect/images/prologue-v1.png) | ![Prologue V2](https://aliemrenebiler.github.io/files/shuttlefly-effect/images/prologue-v2.png) |
+| ![Character Selection V1](https://aliemrenebiler.github.io/files/shuttlefly-effect/images/character-selection-v1.png) | ![Character Selection V2](https://aliemrenebiler.github.io/files/shuttlefly-effect/images/character-selection-v2.png) |
+| ![Scene 1 V1](https://aliemrenebiler.github.io/files/shuttlefly-effect/images/scene-1-v1.png) | ![Scene 1 V2](https://aliemrenebiler.github.io/files/shuttlefly-effect/images/scene-1-v2.png) |
+| ![Scene 2 V1](https://aliemrenebiler.github.io/files/shuttlefly-effect/images/scene-2-v1.png) | ![Scene 2 V2](https://aliemrenebiler.github.io/files/shuttlefly-effect/images/scene-2-v2.png) |
+| Not Available | ![Character Info V2](https://aliemrenebiler.github.io/files/shuttlefly-effect/images/charecter-info-v1.png) |
+| ![Ending V1](https://aliemrenebiler.github.io/files/shuttlefly-effect/images/ending-v1.png) | ![Ending V2](https://aliemrenebiler.github.io/files/shuttlefly-effect/images/ending-v2.png) |
