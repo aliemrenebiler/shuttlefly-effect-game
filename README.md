@@ -1,4 +1,4 @@
-# Shuttlefly Effect
+# Shuttlefly Effect Game
 
 The project was started as Yildiz Technical University Computer Engineering Midterm Project. The basic idea was to create a game that the player can create its own story.
 
@@ -14,12 +14,16 @@ Mostly inspired from Reigns (a mobile decision game).
 
 ## Snapshots
 
-| V1 | V2 |
-| :-: | :-: |
-| ![Main Menu V1](https://aliemrenebiler.github.io/files/projects/shuttlefly-effect/main-menu-v1.png) | ![Main Menu V2](https://aliemrenebiler.github.io/files/projects/shuttlefly-effect/main-menu-v2.png) |
-| ![Prologue V1](https://aliemrenebiler.github.io/files/projects/shuttlefly-effect/prologue-v1.png) | ![Prologue V2](https://aliemrenebiler.github.io/files/projects/shuttlefly-effect/prologue-v2.png) |
-| ![Character Selection V1](https://aliemrenebiler.github.io/files/projects/shuttlefly-effect/character-selection-v1.png) | ![Character Selection V2](https://aliemrenebiler.github.io/files/projects/shuttlefly-effect/character-selection-v2.png) |
-| ![Scene 1 V1](https://aliemrenebiler.github.io/files/projects/shuttlefly-effect/scene-1-v1.png) | ![Scene 1 V2](https://aliemrenebiler.github.io/files/projects/shuttlefly-effect/scene-1-v2.png) |
-| ![Scene 2 V1](https://aliemrenebiler.github.io/files/projects/shuttlefly-effect/scene-2-v1.png) | ![Scene 2 V2](https://aliemrenebiler.github.io/files/projects/shuttlefly-effect/scene-2-v2.png) |
-| Not Available | ![Character Info V2](https://aliemrenebiler.github.io/files/projects/shuttlefly-effect/character-info-v2.png) |
-| ![Ending V1](https://aliemrenebiler.github.io/files/projects/shuttlefly-effect/ending-v1.png) | ![Ending V2](https://aliemrenebiler.github.io/files/projects/shuttlefly-effect/ending-v2.png) |
+![Main Menu V2](https://aliemrenebiler.github.io/files/projects/shuttlefly-effect/main-menu-v2.png)
+
+![Prologue V2](https://aliemrenebiler.github.io/files/projects/shuttlefly-effect/prologue-v2.png)
+
+![Character Selection V2](https://aliemrenebiler.github.io/files/projects/shuttlefly-effect/character-selection-v2.png)
+
+![Scene 1 V2](https://aliemrenebiler.github.io/files/projects/shuttlefly-effect/scene-1-v2.png)
+
+![Scene 2 V2](https://aliemrenebiler.github.io/files/projects/shuttlefly-effect/scene-2-v2.png)
+
+![Character Info V2](https://aliemrenebiler.github.io/files/projects/shuttlefly-effect/character-info-v2.png)
+
+![Ending V2](https://aliemrenebiler.github.io/files/projects/shuttlefly-effect/ending-v2.png)
