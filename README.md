@@ -21,5 +21,5 @@ Mostly inspired from Reigns (a mobile decision game).
 | ![Character Selection V1](https://aliemrenebiler.github.io/files/shuttlefly-effect/images/character-selection-v1.png) | ![Character Selection V2](https://aliemrenebiler.github.io/files/shuttlefly-effect/images/character-selection-v2.png) |
 | ![Scene 1 V1](https://aliemrenebiler.github.io/files/shuttlefly-effect/images/scene-1-v1.png) | ![Scene 1 V2](https://aliemrenebiler.github.io/files/shuttlefly-effect/images/scene-1-v2.png) |
 | ![Scene 2 V1](https://aliemrenebiler.github.io/files/shuttlefly-effect/images/scene-2-v1.png) | ![Scene 2 V2](https://aliemrenebiler.github.io/files/shuttlefly-effect/images/scene-2-v2.png) |
-| Not Available | ![Character Info V2](https://aliemrenebiler.github.io/files/shuttlefly-effect/images/charecter-info-v1.png) |
+| Not Available | ![Character Info V2](https://aliemrenebiler.github.io/files/shuttlefly-effect/images/charecter-info-v2.png) |
 | ![Ending V1](https://aliemrenebiler.github.io/files/shuttlefly-effect/images/ending-v1.png) | ![Ending V2](https://aliemrenebiler.github.io/files/shuttlefly-effect/images/ending-v2.png) |
