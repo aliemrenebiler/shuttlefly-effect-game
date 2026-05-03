@@ -16,10 +16,10 @@ Mostly inspired from Reigns (a mobile decision game).
 
 | V1 | V2 |
 | :-: | :-: |
-| ![Main Menu V1](https://aliemrenebiler.github.io/files/shuttlefly-effect/images/main-menu-v1.png) | ![Main Menu V2](https://aliemrenebiler.github.io/files/shuttlefly-effect/images/main-menu-v2.png) |
-| ![Prologue V1](https://aliemrenebiler.github.io/files/shuttlefly-effect/images/prologue-v1.png) | ![Prologue V2](https://aliemrenebiler.github.io/files/shuttlefly-effect/images/prologue-v2.png) |
-| ![Character Selection V1](https://aliemrenebiler.github.io/files/shuttlefly-effect/images/character-selection-v1.png) | ![Character Selection V2](https://aliemrenebiler.github.io/files/shuttlefly-effect/images/character-selection-v2.png) |
-| ![Scene 1 V1](https://aliemrenebiler.github.io/files/shuttlefly-effect/images/scene-1-v1.png) | ![Scene 1 V2](https://aliemrenebiler.github.io/files/shuttlefly-effect/images/scene-1-v2.png) |
-| ![Scene 2 V1](https://aliemrenebiler.github.io/files/shuttlefly-effect/images/scene-2-v1.png) | ![Scene 2 V2](https://aliemrenebiler.github.io/files/shuttlefly-effect/images/scene-2-v2.png) |
-| Not Available | ![Character Info V2](https://aliemrenebiler.github.io/files/shuttlefly-effect/images/character-info-v2.png) |
-| ![Ending V1](https://aliemrenebiler.github.io/files/shuttlefly-effect/images/ending-v1.png) | ![Ending V2](https://aliemrenebiler.github.io/files/shuttlefly-effect/images/ending-v2.png) |
+| ![Main Menu V1](https://aliemrenebiler.github.io/files/projects/shuttlefly-effect/main-menu-v1.png) | ![Main Menu V2](https://aliemrenebiler.github.io/files/projects/shuttlefly-effect/main-menu-v2.png) |
+| ![Prologue V1](https://aliemrenebiler.github.io/files/projects/shuttlefly-effect/prologue-v1.png) | ![Prologue V2](https://aliemrenebiler.github.io/files/projects/shuttlefly-effect/prologue-v2.png) |
+| ![Character Selection V1](https://aliemrenebiler.github.io/files/projects/shuttlefly-effect/character-selection-v1.png) | ![Character Selection V2](https://aliemrenebiler.github.io/files/projects/shuttlefly-effect/character-selection-v2.png) |
+| ![Scene 1 V1](https://aliemrenebiler.github.io/files/projects/shuttlefly-effect/scene-1-v1.png) | ![Scene 1 V2](https://aliemrenebiler.github.io/files/projects/shuttlefly-effect/scene-1-v2.png) |
+| ![Scene 2 V1](https://aliemrenebiler.github.io/files/projects/shuttlefly-effect/scene-2-v1.png) | ![Scene 2 V2](https://aliemrenebiler.github.io/files/projects/shuttlefly-effect/scene-2-v2.png) |
+| Not Available | ![Character Info V2](https://aliemrenebiler.github.io/files/projects/shuttlefly-effect/character-info-v2.png) |
+| ![Ending V1](https://aliemrenebiler.github.io/files/projects/shuttlefly-effect/ending-v1.png) | ![Ending V2](https://aliemrenebiler.github.io/files/projects/shuttlefly-effect/ending-v2.png) |
