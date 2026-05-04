@@ -14,16 +14,16 @@ Mostly inspired from Reigns (a mobile decision game).
 
 ## Snapshots
 
-![Main Menu V2](https://aliemrenebiler.github.io/files/projects/shuttlefly-effect/main-menu-v2.png)
+![Main Menu V2](https://aliemrenebiler.github.io/files/projects/shuttlefly-effect/v2/main-menu.png)
 
-![Prologue V2](https://aliemrenebiler.github.io/files/projects/shuttlefly-effect/prologue-v2.png)
+![Prologue V2](https://aliemrenebiler.github.io/files/projects/shuttlefly-effect/v2/prologue.png)
 
-![Character Selection V2](https://aliemrenebiler.github.io/files/projects/shuttlefly-effect/character-selection-v2.png)
+![Character Selection V2](https://aliemrenebiler.github.io/files/projects/shuttlefly-effect/v2/character-selection.png)
 
-![Scene 1 V2](https://aliemrenebiler.github.io/files/projects/shuttlefly-effect/scene-1-v2.png)
+![Scene 1 V2](https://aliemrenebiler.github.io/files/projects/shuttlefly-effect/v2/scene-1.png)
 
-![Scene 2 V2](https://aliemrenebiler.github.io/files/projects/shuttlefly-effect/scene-2-v2.png)
+![Scene 2 V2](https://aliemrenebiler.github.io/files/projects/shuttlefly-effect/v2/scene-2.png)
 
-![Character Info V2](https://aliemrenebiler.github.io/files/projects/shuttlefly-effect/character-info-v2.png)
+![Character Info V2](https://aliemrenebiler.github.io/files/projects/shuttlefly-effect/v2/character-info.png)
 
-![Ending V2](https://aliemrenebiler.github.io/files/projects/shuttlefly-effect/ending-v2.png)
+![Ending V2](https://aliemrenebiler.github.io/files/projects/shuttlefly-effect/v2/ending.png)
